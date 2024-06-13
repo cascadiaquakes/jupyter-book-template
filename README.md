@@ -1,2 +1,5 @@
 # jupyter-book-template
-example of jupyter book through the PRIDE PPP
+
+This repository is aimed to be a template/example to follow on how to make a jupyter-book for CRESCENT with the availableb ressources such as logo
+
+https://jupyterbook.org/en/stable/intro.html
