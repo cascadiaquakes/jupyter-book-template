@@ -10,7 +10,7 @@ Requirements are:
 - numpy  
 
 Compile: 
-jupyter-book build mybookname/
+jupyter-book build mybookname/   (replace "mybookname" with the path to the folder containing the _config.yml file)
 
 open the _build/html/index.html
 
