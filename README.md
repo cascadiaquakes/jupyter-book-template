@@ -4,11 +4,18 @@
 
 This repository is aimed to be a template/example to follow on how to make a jupyter-book for CRESCENT with the available resources such as logo
 
-https://jupyterbook.org/en/stable/intro.html
+Requirements are:
+- jupyter-book package  
+- matplotlib  
+- numpy  
 
 Compile: 
 jupyter-book build mybookname/
 
 open the _build/html/index.html
+
+
+More documentation on jupyter-book  
+https://jupyterbook.org/en/stable/intro.html
 
 Don't forget to change some links like the deployment URL for your book!
