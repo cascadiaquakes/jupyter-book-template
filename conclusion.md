@@ -10,16 +10,24 @@ The script needs the following arguments as input:
 example of how to use that script that is not showed in the notebooks
 
 The script need the following files:  
-* Add any additionals ressources needed
+* Add any additional ressources needed
 
 Outputs will be found here:  
 * details of outputs
 
 ## Related links for other products
-Add links to any other related plateform:
+Add links to any other related platform:
 
 ## Publications
 Here is the list of publications:
+
+how to make a citation: {cite}`perez2011python`
+
+## Bibliography
+
+```{bibliography}
+:style: unsrt
+```
 
 ## Research team
 
