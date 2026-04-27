@@ -1,4 +1,4 @@
-![Deployement of book](../../actions/workflows/deploy-book.yml/badge.svg) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cascadiaquakes/jupyter-book-template/HEAD?labpath=notebooks%2F)  
+![Deployement of book](../../actions/workflows/deploy-book.yml/badge.svg)
 [Link to Jupyter-book template book](https://cascadiaquakes.github.io/jupyter-book-template/)
 
 # jupyter-book-template
